@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Verathena
-- 👀 I’m interested in coding
+- 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me adeadeola234@gmail.com
